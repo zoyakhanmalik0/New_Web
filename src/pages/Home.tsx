@@ -37,12 +37,12 @@ export default function Home() {
   ];
 
   const downloads = [
-    { label: 'Download Flying Chess', link: 'https://flyingchess.com/?from_gameid=8418021&channelCode=8307610' },
-    { label: 'Download 3 Patti Teen', link: 'https://3pattiteen.com/?from_gameid=8418021&channelCode=8307610' },
-    { label: 'Download 3 Patti Gold', link: 'https://flyingchess.com/?from_gameid=8173353&channelCode=100000' },
-    { label: 'Download 3 Patti No 1', link: 'https://flyingchess.com/?from_gameid=8477993&channelCode=100000' },
-    { label: 'Download 3 Patti Lucky', link: 'https://flyingchess.com/?from_gameid=8418021&channelCode=8307610' },
-    { label: 'Download 3 Patti Room', link: 'https://3pattiteen.com/?from_gameid=8173353&channelCode=100000' }
+    { label: 'Download Flying Chess', link: 'https://xjpklccossyd10.zxcvrfrec.com/FlyingChess-APK/FlyingChess_channel_8725013.apk' },
+    { label: 'Download 3 Patti Teen', link: 'https://xjpklccossyd10.zxcvrfrec.com/FlyingChess-APK/FlyingChess_channel_8725013.apk' },
+    { label: 'Download 3 Patti Gold', link: 'https://xjpklccossyd10.zxcvrfrec.com/FlyingChess-APK/FlyingChess_channel_8725013.apk' },
+    { label: 'Download 3 Patti No 1', link: 'https://xjpklccossyd10.zxcvrfrec.com/FlyingChess-APK/FlyingChess_channel_8725013.apk' },
+    { label: 'Download 3 Patti Lucky', link: 'https://xjpklccossyd10.zxcvrfrec.com/FlyingChess-APK/FlyingChess_channel_8725013.apk' },
+    { label: 'Download 3 Patti Room', link: 'https://xjpklccossyd10.zxcvrfrec.com/FlyingChess-APK/FlyingChess_channel_8725013.apk' }
   ];
 
   const testimonials = [
